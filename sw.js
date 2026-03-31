@@ -1,4 +1,4 @@
-const CACHE_NAME = 'preptrack-v6';
+const CACHE_NAME = 'preptrack-v7';
 const ASSETS = [
   '/',
   '/index.html',
