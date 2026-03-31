@@ -1,4 +1,4 @@
-const CACHE_NAME = 'preptrack-v5';
+const CACHE_NAME = 'preptrack-v6';
 const ASSETS = [
   '/Study-tracker/',
   '/Study-tracker/index.html',
